@@ -32,7 +32,7 @@ files:
       length: 29
       offset: 484
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: '@time_decorator'
   text: |
