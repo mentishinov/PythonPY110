@@ -1,6 +1,5 @@
 def task(words: list) -> list:
     return list(map(str.upper, words))
-    # TODO перевести слова в верхний регистр c помощью map
 
 
 if __name__ == "__main__":
