@@ -15,3 +15,6 @@ def task():
 
 if __name__ == '__main__':
     task()
+
+
+####\s(?P<position>\d+)\.\s\[(?P<book>.+)]\((?P<book_url>https://amzn\.to/\w+)\) by (?P<author>[a-zA-Z]+ [a-zA-Z]+) \((?P<recommended>\d{1,3}\.\d+%)\srecommended\)\s!\[\]\((?P<cover_url>.+?)\)\s+
